@@ -1,0 +1,7 @@
+{
+  "name": "MySubsidi - Malaysia Fuel Subsidy",
+  "description": "A citizen-centric mobile application for managing and claiming fuel subsidies in Malaysia, featuring user onboarding, eligibility checks via Gemini, and secure QR code generation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
